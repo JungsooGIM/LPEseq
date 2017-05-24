@@ -1,0 +1,12 @@
+export(AVplot)
+export(LPEseq.matrans)
+export(LPEseq.normalise)
+export(LPEseq.outlier)
+export(LPEseq.predict.var)
+export(LPEseq.test)
+export(LPEseq.var)
+export(am.trans)
+export(generateData)
+export(lpe.var)
+export(permute)
+

@@ -1,0 +1,22 @@
+Package: LPEseq
+Type: Package
+Title: LPEseq: local-pooled-error test for RNA-seq data with a small number of
+    replicates
+Version: 0.99.5
+Date: 2015-08-26
+Author: Jungsoo Gim [aut, cre], Taesung Park [aut]
+Maintainer: Jungsoo Gim <iedenkim@gmail.com>
+Description: LPEseq package can be applied to RNA-Seq data with a small number
+    of replicates, especially with non-replicate per each class. LPEseq package
+    can be used for both count-based and FPKM-based (continous value) input data.
+Depends: stats, utils, graphics, grDevices, base, R (>= 3.1.0)
+License: GPL (>=2)
+VignetteBuilder: knitr
+Suggests: knitr
+LazyData: true
+URL: http://bibs.snu.ac.kr/software/LPEseq
+BugReport: iedenkim@gmail.com
+Packaged: 2015-08-26
+biocViews: Software, Technology, Sequencing, RNASeq, GeneExpression,
+    Transcription, DifferentialExpression, Normalization
+
